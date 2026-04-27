@@ -5,7 +5,7 @@ This module assumes a Queue class with: enqueue(int), dequeue()->int, front()->i
 """
 
 from __future__ import annotations
-from queue2 import Queue
+from queue import Queue
 
 class StackFromQueues:
     """
