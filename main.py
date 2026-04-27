@@ -52,6 +52,7 @@ def list_free(first: Optional[Node]) -> None:
 
 
 def main():
+    print("This should be a line")
     n: int = 16
     m: int = 8  # Retained to match C code, though unused in this snippet
     
